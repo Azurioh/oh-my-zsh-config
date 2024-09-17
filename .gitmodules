@@ -1,0 +1,9 @@
+[submodule "plugins/zsh-bat"]
+	path = plugins/zsh-bat
+	url = https://github.com/fdellwing/zsh-bat
+[submodule "plugins/zsh-autosuggestions"]
+	path = plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "plugins/you-should-use"]
+	path = plugins/you-should-use
+	url = https://github.com/MichaelAquilina/zsh-you-should-use
